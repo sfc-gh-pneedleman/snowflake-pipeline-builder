@@ -1,3 +1,14 @@
+
+#Buit with Snowflake Sortex Code
+* Snowflake ETL Builder is a visual, no-code/low-code web application that lets users:
+
+  1. Design data pipelines visually — Drag-and-drop ETL nodes (sources, transformations, destinations) onto a canvas and connect them to build Snowflake data workflows
+  2. Connect to Snowflake — Authenticate via password or SSO to browse databases, schemas, tables, and stages
+  3. Generate SQL automatically — The app produces deployment-ready Snowflake SQL (for tasks, dynamic tables, COPY INTO statements, etc.) from the visual pipeline
+  4. Save, load, import/export pipelines — Pipelines persist locally and can be exported as JSON files
+  5. Schedule pipelines — A scheduler page lets users configure recurring execution via Snowflake Tasks
+
+---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
